@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-contenido 
-=======
 contenido
-modificacion 1.. 
->>>>>>> e5015b5e6108c131a0ba9af04720f646a3956082
+modificacion 1..
